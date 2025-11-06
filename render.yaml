@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: portfolio-optimizer
+    env: docker
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: DB_NAME
+        value: postgres
+      - key: DB_USER
+        value: postgres
+      - key: DB_PASS
+        value: raghul2005
+      - key: DB_HOST
+        value: db.uoddmwersflnrkurprtj.supabase.co
+      - key: DB_PORT
+        value: 5432
