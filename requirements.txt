@@ -1,0 +1,15 @@
+streamlit
+streamlit-authenticator
+tensorflow
+numpy
+pandas
+plotly
+yfinance
+scikit-learn
+statsmodels
+arch
+pypfopt
+tqdm
+lime
+PyYAML
+psycopg2-binary

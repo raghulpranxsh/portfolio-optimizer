@@ -1,0 +1,13 @@
+# Ignore cache and temp files
+__pycache__/
+*.pyc
+models_cache/
+.realtime_report.pkl
+config.yaml
+
+# Streamlit cache
+.streamlit/
+
+# Virtual environment
+venv/
+.env/
