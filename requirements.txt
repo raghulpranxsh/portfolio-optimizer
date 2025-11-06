@@ -1,6 +1,6 @@
 streamlit
 streamlit-authenticator
-tensorflow
+tensorflow-cpu==2.14.0
 numpy
 pandas
 plotly
